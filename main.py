@@ -1,8 +1,3 @@
-"""
-FitBot — Telegram-бот для похудения с реферальной системой,
-внутренним балансом, подпиской через Telegram Stars и админ-панелью.
-"""
-
 import asyncio
 import base64
 import json
